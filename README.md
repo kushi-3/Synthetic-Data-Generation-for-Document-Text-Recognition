@@ -1,0 +1,1 @@
+# Synthetic-Data-Generation-for-Document-Text-Recognition
